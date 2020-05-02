@@ -12,3 +12,9 @@ dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /nores
 ```
 - restart windows
 
+### Open Ubuntu Shell
+- create linux user and password (use windows alias)
+
+## Environment Setup
+
+### GEM_HOME for system ruby
