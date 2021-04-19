@@ -17,4 +17,5 @@ dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /nores
 
 ## Environment Setup
 
-### GEM_HOME for system ruby
+### Installing Homebrew (Linux)
+https://docs.brew.sh/Homebrew-on-Linux
